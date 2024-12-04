@@ -1,0 +1,22 @@
+body {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: rgb(19, 13, 43);
+    padding-left: 10cm;
+};
+h3{
+    background-color: rgb(211, 192, 148);
+}
+h4{
+    background-color: rgb(207, 146, 146);
+    margin-right: 10cm;
+    padding-right: 1cm;
+}
+h1{
+    background-color: rgb(123, 173, 157);
+    margin-right: 10cm;
+}
+img{
+    height: 10cm;
+    width: 7cm;
+    align-items: center;
+}
